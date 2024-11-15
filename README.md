@@ -1,5 +1,5 @@
 # 4.Execution_of_NetworkCommands
-## NAME : HIRUTHIK ALLEN JOVETH P
+## NAME : ALLEN JOVETH P
 ## REGISTER NUMBER : 212223240007
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
